@@ -1,12 +1,12 @@
 ![Juniour Web Developer](https://i.ibb.co/PwpknbF/KI-Shakib-Banner.png)
 
-### Hi there 👋, I'm Khubaibul Islam Shakib
-#### Junior Web Developer
+# Hi there 👋, I'm Khubaibul Islam Shakib
+### Junior Web Developer
 
 
 I have been training and working as a junior Web Developer for one year. My vision is to be a Full Stack Developer.
 
-Skills: HTML / CSS / BOOTSTRAP / TAILWIND / JAVASCRIPT / REACT / NODE / EXPRESS / FIREBASE / MONGODB
+#### Skills: HTML / CSS / BOOTSTRAP / TAILWIND / JAVASCRIPT / REACT / NODE / EXPRESS / FIREBASE / MONGODB
  
 - 🌱 I’m currently learning MERN STACK 
 
