@@ -7,8 +7,7 @@
 I have been training and working as a junior Web Developer for one year. My vision is to be a Full Stack Developer.
 
 Skills: HTML / CSS / BOOTSTRAP / TAILWIND / JAVASCRIPT / REACT / NODE / EXPRESS / FIREBASE / MONGODB
-
-- 🔭 I’m currently working on this page. 
+ 
 - 🌱 I’m currently learning MERN STACK 
 
 
