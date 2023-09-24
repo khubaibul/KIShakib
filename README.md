@@ -1,6 +1,6 @@
 ![Juniour Web Developer](https://i.ibb.co/dmyQks7/khubaibul-islam-shakib.png)
 
-# Hello, I'm Khubaibul Islam Shakib
+# Hello, I'm Khubaibul Islam
 ### Junior Web Developer
 
 
