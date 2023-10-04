@@ -8,7 +8,7 @@ I have been training and working as a junior Web Developer for one year. My visi
 
 ### Skills: HTML / CSS / BOOTSTRAP / TAILWIND / JAVASCRIPT / REACT / NODE / EXPRESS / FIREBASE / MONGODB
  
-- 🌱 I’m currently learning MERN STACK 
+- 🌱 I’m have completed MERN STACK 
 
 
 
