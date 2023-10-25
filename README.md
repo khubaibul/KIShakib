@@ -22,7 +22,7 @@ I have been training and working as a junior Web Developer for one year. My visi
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
-![MongoDB](https://cdn.iconscout.com/icon/free/png-512/free-mongodb-3-1175138.png?f=webp&w=256)
+![MongoDB](https://img.shields.io/badge/Mongodb-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
  
 - 🌱 I have completed MERN STACK 
 
