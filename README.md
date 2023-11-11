@@ -1,10 +1,10 @@
-![Juniour Web Developer](https://i.ibb.co/dmyQks7/khubaibul-islam-shakib.png)
+![Juniour Web Developer](https://i.ibb.co/BqYrxLq/Linkedin-Cover.png)
 
 # Hello, I'm Khubaibul Islam
-### Junior Web Developer
+## 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 || 𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 || 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 || 𝗥𝗲𝗮𝗰𝘁 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
 
 
-I have been training and working as a junior Web Developer for one year. My vision is to be a Full Stack Developer.
+𝙸 𝚊𝚖 𝚊𝚗 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝𝚒𝚌 𝙼𝙴𝚁𝙽 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚠𝚒𝚝𝚑 𝚊 𝚜𝚝𝚛𝚘𝚗𝚐 𝚙𝚊𝚜𝚜𝚒𝚘𝚗 𝚏𝚘𝚛 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚠𝚎𝚋 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜. 𝙸 𝚑𝚊𝚟𝚎 𝚎𝚡𝚙𝚎𝚛𝚝𝚒𝚜𝚎 𝚒𝚗 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚑𝚒𝚐𝚑-𝚙𝚎𝚛𝚏𝚘𝚛𝚖𝚊𝚗𝚌𝚎, 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎, 𝚊𝚗𝚍 𝚛𝚎𝚜𝚙𝚘𝚗𝚜𝚒𝚟𝚎 𝚊𝚙𝚙𝚕𝚒𝚌𝚊𝚝𝚒𝚘𝚗𝚜. 𝙼𝚢 𝚐𝚘𝚊𝚕 𝚒𝚜 𝚝𝚘 𝚜𝚝𝚊𝚢 𝚞𝚙-𝚝𝚘-𝚍𝚊𝚝𝚎 𝚠𝚒𝚝𝚑 𝚒𝚗𝚍𝚞𝚜𝚝𝚛𝚢 𝚜𝚝𝚊𝚗𝚍𝚊𝚛𝚍𝚜 𝚊𝚗𝚍 𝚋𝚎𝚜𝚝 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚎𝚜 𝚝𝚘 𝚙𝚛𝚘𝚟𝚒𝚍𝚎 𝚘𝚙𝚝𝚒𝚖𝚊𝚕 𝚜𝚘𝚕𝚞𝚝𝚒𝚘𝚗𝚜 𝚝𝚑𝚊𝚝 𝚎𝚡𝚌𝚎𝚎𝚍 𝚎𝚡𝚙𝚎𝚌𝚝𝚊𝚝𝚒𝚘𝚗𝚜.
 
 ### Skills:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -78,14 +78,6 @@ I have been training and working as a junior Web Developer for one year. My visi
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ki_shakib)
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KIShakib)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KIShakib&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KIShakib)  
 
-![GitHub metrics](https://metrics.lecoq.io/KIShakib)  
-
-![Profile views](https://gpvc.arturio.dev/KIShakib)  
