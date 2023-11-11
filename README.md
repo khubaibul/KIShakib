@@ -1,4 +1,4 @@
-![Juniour Web Developer](https://i.ibb.co/t3tHT8V/my-banner.png)
+![Juniour Web Developer](https://res.cloudinary.com/dou96vwyp/image/upload/v1699732606/Linkedin_Cover_fig8ui.png)
 
 # Hello, I'm Khubaibul Islam
 ## 𝗪𝗲𝗯 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 || 𝗠𝗘𝗥𝗡 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 || 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 || 𝗥𝗲𝗮𝗰𝘁 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
