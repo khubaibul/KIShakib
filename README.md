@@ -78,6 +78,3 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/ki_shakib)
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KIShakib)  
-
